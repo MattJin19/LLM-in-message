@@ -2,20 +2,16 @@
 A brief tutorial for the paper "Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States"
 
 ## Overview
-Currently, we have made 
+Currently, we use an LLM to give labels to the message extracted from an instant messaging tool and change the color of a bubble chat by the output results. The function of the LLM is shown in this repository and users can modify the code by their willingness. 
 
 ## Installation
 
 The code requires Python >= 3.8  
-NumPy: 1.19.5  
-Matplotlib: 3.2.2  
-Pandas: 1.1.5.  
+request => 2.31.0
 
 if not please use:
 ```
-pip install numpy
-pip install matplotlib
-pip install pandas
+pip install request
 ```
 
 Recommend:
