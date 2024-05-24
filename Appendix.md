@@ -1,3 +1,38 @@
+**LLM Analysis Details**
+===
+
+**Messages in Testing**
+===
+
+| Code | Full Message |
+|------|--------------|
+| S1   | I'm currently working on another article. |
+| S2   | I'll be attending an academic conference in another city next Wednesday. |
+| S3   | I need to go home to handle some matters, so I won't be going to the office today. |
+| S4   | Let's set another time for discussion after we return from the business trip. |
+| S5   | There's a conference deadline approaching; I'll prepare that article first. |
+| S6   | I'll look at your paper after the meeting ends. |
+| S7   | Mentor, I'm still reading the article you recommended last time. |
+| S8   | Based on your suggestions, I've found some more relevant literature to continue studying. |
+| S9   | Mentor, I'm still in the literature review stage, trying to find the theoretical value of the research. |
+| S10  | Let me discuss it with you after I finish reading it. |
+| S11  | The articles you explained during the last group meeting were quite good; I'll read them again recently. |
+| S12  | The article is a bit lengthy; it takes some time to read. |
+| S13  | Mentor, I'll take in your suggestions and see how they can improve the results. |
+| S14  | The experimental results are quite significant; I'll repeat the operations a few more times. |
+| S15  | I'll confirm with the manager in school whether your approval is needed for this opinion. |
+| S16  | Whether the results are reliable using this method, show me next time in person. |
+| S17  | I'll ask the assistant again about the procedure for purchasing and reimbursing consumables; you can also ask. |
+| S18  | I need to double-check whether there is related research in this direction. |
+| S19  | The suggestions you made last time are very valuable. I'll reorganize them. |
+| S20  | Both of these topics are quite interesting; I'll consider whether to combine them or study them separately. |
+| S21  | I'll discuss with my colleagues how to organize the materials and express opinions more logically. |
+| S22  | The logic of this article is not very clear; it needs to be reorganized. |
+| S23  | The quality of this literature is good; I'll consider how to use it in the paper. |
+| S24  | Wait a moment; I'll think about how to revise your article. |
+
+
+
 **LLM Explanations Details**
 ===
 
