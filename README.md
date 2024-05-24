@@ -1,7 +1,9 @@
 # Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States
-A brief tutorial for the paper "Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States"
+The appendix and a brief tutorial for the paper "Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States"
 
 ## Overview
+We provide the appendix here to show the messages that are used for testing ChatGPT-3.5 and Claude-3 and their answers to these messages.
+
 Currently, we use an LLM to give labels to the message extracted from an instant messaging tool and change the color of a bubble chat by the output results. The function of the LLM is shown in this repository and users can modify the code by their willingness. 
 
 ## Installation
