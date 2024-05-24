@@ -156,7 +156,7 @@ This sentence indicates the recipient's engagement in handling personal matters.
 
 The recipient suggests organizing a discussion for a later time, considering the upcoming business trip.
 
-- S5-Organizing*: "There's a conference deadline approaching; I'll prepare that article first."
+- S5*-Organizing: "There's a conference deadline approaching; I'll prepare that article first."
 
 The recipient prioritizes preparing an article for an approaching conference deadline, suggesting organizational planning.
 
@@ -188,7 +188,7 @@ The recipient plans to read articles again, indicating their current activity.
 
 The recipient mentions the length of the article, suggesting they are currently reading it.
 
-- S13-Organizing*: "Mentor, I'll take in your suggestions and see how they can improve the results."
+- S13*-Organizing: "Mentor, I'll take in your suggestions and see how they can improve the results."
 
 This sentence indicates that the recipient is considering the suggestions and planning to incorporate them into their work, implying a need for organizational thought.
 
