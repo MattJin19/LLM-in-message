@@ -1,7 +1,7 @@
 **LLM Analysis Details**
 ===
 
-**Messages in Testing**
+*Messages in Testing*
 ===
 
 | Code | Full Message |
@@ -33,12 +33,13 @@
 
 
 
-**LLM Explanations Details**
+*LLM Explanations Details*
 ===
 
 '*' means the sentence that the LLM makes the mistake.
 
-**Claude-3:**
+*Claude-3*
+==
 - S1-Engaged: "I'm currently working on another article." This sentence indicates that the person is engaged in a different task, which fits the Engaged state.
 - S2-Engaged: "I'll be attending an academic conference in another city next Wednesday." This sentence implies that the person will be engaged in attending a conference, which fits the Engaged state.
 - S3-Engaged: "I need to go home to handle some matters, so I won't be going to the office today." This sentence suggests that the person is engaged in handling personal matters, which fits the Engaged state.
@@ -47,30 +48,28 @@
 - S6-Engaged: "I'll look at your paper after the meeting ends." This sentence implies that the person will be engaged in a meeting and will look at the paper afterwards, which fits the Engaged state.
 - S7-Reading: "I'm still reading the article you recommended last time." This sentence explicitly states that the person is in the process of reading an article, corresponding to the Reading state.
 - S8-Verifying*: "Based on your suggestions, I've found some more relevant literature to continue studying." This sentence suggests that the person is verifying or gathering additional relevant literature for further study, which aligns with the Verifying state.
-\item S9-Reading: "I'm still in the literature review stage, trying to find the theoretical value of the research." This sentence explicitly states that the person is in the reading or literature review stage, corresponding to the Reading state.
-\item S10-Reading: "Let me discuss it with you after I finish reading it." This sentence directly mentions reading something before discussing it, which corresponds to the Reading state.
-\item S11-Reading: "The articles you explained during the last group meeting were quite good; I'll read them again recently." This sentence directly mentions reading the articles again, which corresponds to the Reading state.
-\item S12-Reading: "The article is a bit lengthy; it takes some time to read." This sentence directly mentions that reading the article takes time, which corresponds to the Reading state.
-\item S13-Verifying: "I'll take in your suggestions and see how they can improve the results." This sentence suggests that the person needs to verify the suggestions and assess their potential impact on the results, indicating a Verifying state.
-\item S14-Verifying: "I'll repeat the operations a few more times." This sentence indicates that the person needs to verify the experimental results by repeating the operations, which corresponds to the Verifying state.
-\item S15-Verifying: "I'll confirm with the manager in school whether your approval is needed for this opinion." This sentence indicates that the person needs to verify if approval is required, which aligns with the Verifying state.
-\item S16-Verifying: "Whether the results are reliable using this method, show me next time in person." This sentence suggests that the person needs to verify the reliability of the results using a particular method, which aligns with the Verifying state.
-\item S17-Verifying: "I'll ask the assistant again about the procedure for purchasing and reimbursing consumables; you can also ask." This sentence suggests that the person needs to verify the procedure for purchasing and reimbursement, which aligns with the Verifying state.
-\item S18-Verifying: "I need to double-check whether there is related research in this direction." This sentence indicates that the person needs to verify if there is related research in a particular direction, which aligns with the Verifying state.
-\item S19-Organizing: "I'll reorganize them." This sentence directly states that the person needs to organize the suggestions, which aligns with the Organizing state.
-\item S20-Organizing: "I'll discuss with my colleagues how to organize the materials and express opinions more logically." This sentence directly mentions organizing the materials and opinions, which aligns with the Organizing state.
-\item S21-Organizing: "I'll consider whether to combine them or study them separately." This sentence suggests that the person needs to organize their thoughts and decide on how to approach the topics, aligning with the Organizing state.
-\item S22-Organizing: "The logic of this article is not very clear; it needs to be reorganized." This sentence directly states that the article needs to be reorganized, which corresponds to the Organizing state.
-\item S23-Organizing: "I'll consider how to use it in the paper." This sentence indicates that the person needs to organize their thoughts on how to incorporate the literature into their paper, which corresponds to the Organizing state.
-\item S24-Organizing: "Wait a moment; I'll think about how to revise your article." This sentence suggests that the person needs to organize their thoughts on how to revise the article, which aligns with the Organizing state.
-
-\end{enumerate}
+- S9-Reading: "I'm still in the literature review stage, trying to find the theoretical value of the research." This sentence explicitly states that the person is in the reading or literature review stage, corresponding to the Reading state.
+- S10-Reading: "Let me discuss it with you after I finish reading it." This sentence directly mentions reading something before discussing it, which corresponds to the Reading state.
+- S11-Reading: "The articles you explained during the last group meeting were quite good; I'll read them again recently." This sentence directly mentions reading the articles again, which corresponds to the Reading state.
+- S12-Reading: "The article is a bit lengthy; it takes some time to read." This sentence directly mentions that reading the article takes time, which corresponds to the Reading state.
+- S13-Verifying: "I'll take in your suggestions and see how they can improve the results." This sentence suggests that the person needs to verify the suggestions and assess their potential impact on the results, indicating a Verifying state.
+- S14-Verifying: "I'll repeat the operations a few more times." This sentence indicates that the person needs to verify the experimental results by repeating the operations, which corresponds to the Verifying state.
+- S15-Verifying: "I'll confirm with the manager in school whether your approval is needed for this opinion." This sentence indicates that the person needs to verify if approval is required, which aligns with the Verifying state.
+- S16-Verifying: "Whether the results are reliable using this method, show me next time in person." This sentence suggests that the person needs to verify the reliability of the results using a particular method, which aligns with the Verifying state.
+- S17-Verifying: "I'll ask the assistant again about the procedure for purchasing and reimbursing consumables; you can also ask." This sentence suggests that the person needs to verify the procedure for purchasing and reimbursement, which aligns with the Verifying state.
+- S18-Verifying: "I need to double-check whether there is related research in this direction." This sentence indicates that the person needs to verify if there is related research in a particular direction, which aligns with the Verifying state.
+- S19-Organizing: "I'll reorganize them." This sentence directly states that the person needs to organize the suggestions, which aligns with the Organizing state.
+- S20-Organizing: "I'll discuss with my colleagues how to organize the materials and express opinions more logically." This sentence directly mentions organizing the materials and opinions, which aligns with the Organizing state.
+- S21-Organizing: "I'll consider whether to combine them or study them separately." This sentence suggests that the person needs to organize their thoughts and decide on how to approach the topics, aligning with the Organizing state.
+- S22-Organizing: "The logic of this article is not very clear; it needs to be reorganized." This sentence directly states that the article needs to be reorganized, which corresponds to the Organizing state.
+- S23-Organizing: "I'll consider how to use it in the paper." This sentence indicates that the person needs to organize their thoughts on how to incorporate the literature into their paper, which corresponds to the Organizing state.
+- S24-Organizing: "Wait a moment; I'll think about how to revise your article." This sentence suggests that the person needs to organize their thoughts on how to revise the article, which aligns with the Organizing state.
 
 
-\textbf{ChaGPT-3.5}:
+*ChaGPT-3.5*
+==
 
-\begin{enumerate}
-\item S1-Engaged: "I'm currently working on another article."
+- S1-Engaged: "I'm currently working on another article."
 
 This sentence suggests the recipient is occupied with another task, indicating engagement elsewhere.
 
