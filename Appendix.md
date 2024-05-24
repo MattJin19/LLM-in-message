@@ -1,17 +1,17 @@
-\subsection{LLM Explanations Details}
+**LLM Explanations Details**
+===
+
 '*' means the sentence that the LLM makes the mistake.
 
-\textbf{Claude-3}:
-\begin{enumerate}
-
-\item S1-Engaged: "I'm currently working on another article." This sentence indicates that the person is engaged in a different task, which fits the Engaged state.
-\item S2-Engaged: "I'll be attending an academic conference in another city next Wednesday." This sentence implies that the person will be engaged in attending a conference, which fits the Engaged state.
-\item S3-Engaged: "I need to go home to handle some matters, so I won't be going to the office today." This sentence suggests that the person is engaged in handling personal matters, which fits the Engaged state.
-\item S4-Engaged: "Let's set another time for discussion after we return from the business trip." This sentence implies that the person will be engaged in a business trip, which fits the Engaged state.
-\item S5-Engaged: "There's a conference deadline approaching; I'll prepare that article first." This sentence suggests that the person will be engaged in preparing an article for a conference deadline, which fits the Engaged state.
-\item S6-Engaged: "I'll look at your paper after the meeting ends." This sentence implies that the person will be engaged in a meeting and will look at the paper afterwards, which fits the Engaged state.
-\item S7-Reading: "I'm still reading the article you recommended last time." This sentence explicitly states that the person is in the process of reading an article, corresponding to the Reading state.
-\item S8-Verifying*: "Based on your suggestions, I've found some more relevant literature to continue studying." This sentence suggests that the person is verifying or gathering additional relevant literature for further study, which aligns with the Verifying state.
+**Claude-3:**
+- S1-Engaged: "I'm currently working on another article." This sentence indicates that the person is engaged in a different task, which fits the Engaged state.
+- S2-Engaged: "I'll be attending an academic conference in another city next Wednesday." This sentence implies that the person will be engaged in attending a conference, which fits the Engaged state.
+- S3-Engaged: "I need to go home to handle some matters, so I won't be going to the office today." This sentence suggests that the person is engaged in handling personal matters, which fits the Engaged state.
+- S4-Engaged: "Let's set another time for discussion after we return from the business trip." This sentence implies that the person will be engaged in a business trip, which fits the Engaged state.
+- S5-Engaged: "There's a conference deadline approaching; I'll prepare that article first." This sentence suggests that the person will be engaged in preparing an article for a conference deadline, which fits the Engaged state.
+- S6-Engaged: "I'll look at your paper after the meeting ends." This sentence implies that the person will be engaged in a meeting and will look at the paper afterwards, which fits the Engaged state.
+- S7-Reading: "I'm still reading the article you recommended last time." This sentence explicitly states that the person is in the process of reading an article, corresponding to the Reading state.
+- S8-Verifying*: "Based on your suggestions, I've found some more relevant literature to continue studying." This sentence suggests that the person is verifying or gathering additional relevant literature for further study, which aligns with the Verifying state.
 \item S9-Reading: "I'm still in the literature review stage, trying to find the theoretical value of the research." This sentence explicitly states that the person is in the reading or literature review stage, corresponding to the Reading state.
 \item S10-Reading: "Let me discuss it with you after I finish reading it." This sentence directly mentions reading something before discussing it, which corresponds to the Reading state.
 \item S11-Reading: "The articles you explained during the last group meeting were quite good; I'll read them again recently." This sentence directly mentions reading the articles again, which corresponds to the Reading state.
