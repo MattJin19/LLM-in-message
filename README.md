@@ -28,8 +28,7 @@ LLM in message code released under the Apache License 2.0. See [LICENSE](LICENSE
 If you find this repository useful, please consider giving a star :star: and citation:
 
 ```
-@misc{
-@inproceedings{10.1145/3657604.3664691,
+@inproceedings{Jin:2024:LS,
 author = {Jin, Yuanzhe and Yu, Jiali},
 title = {Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States},
 year = {2024},
