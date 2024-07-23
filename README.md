@@ -29,5 +29,22 @@ If you find this repository useful, please consider giving a star :star: and cit
 
 ```
 @misc{
+@inproceedings{10.1145/3657604.3664691,
+author = {Jin, Yuanzhe and Yu, Jiali},
+title = {Optimizing Mentor-student Communication Using LLM-Based Automated Labeling Information States},
+year = {2024},
+isbn = {9798400706332},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3657604.3664691},
+doi = {10.1145/3657604.3664691},
+abstract = {As more and more countries pay attention to the quality of university education in recent years, the number of students and mentors in schools has grown rapidly. In the higher education scenario, the communication between mentors and students has long been a focal point of research. Within the communication between students and mentors, understanding information in non-face-to-face interactions often poses a challenge to communication efficiency. When using instant messaging tools for text exchanges, recipients often find themselves needing to infer the sender's intentions. With the recent rapid development of large language models (LLMs) in text comprehension capabilities, we propose to use LLMs to encode information states of the sending message, aiming to achieve a more accurate understanding of the states between mentors and students. Through experiments, we have found that using LLMs for encoding information states can assist mentors and students in better understanding responses to each other and avoid misunderstandings.},
+booktitle = {Proceedings of the Eleventh ACM Conference on Learning @ Scale},
+pages = {284–288},
+numpages = {5},
+keywords = {automated labeling, education scenario, information states, large language model, mentor-student communication},
+location = {Atlanta, GA, USA},
+series = {L@S '24}
+}
 }
 ```
