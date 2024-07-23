@@ -45,5 +45,4 @@ keywords = {automated labeling, education scenario, information states, large la
 location = {Atlanta, GA, USA},
 series = {L@S '24}
 }
-}
 ```
